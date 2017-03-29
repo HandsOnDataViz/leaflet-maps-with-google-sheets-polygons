@@ -1,5 +1,5 @@
 # leaflet-maps-with-google-sheets-polygons
-Leaflet Maps with Google Sheets - polygons version for teaching purposes
+Leaflet Maps with Google Sheets - polygons-version for teaching purposes
 
 ## Live links (replace with your own)
 - Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets-polygons/index.html
