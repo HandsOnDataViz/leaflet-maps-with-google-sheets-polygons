@@ -1,5 +1,5 @@
 # leaflet-maps-with-google-sheets-polygons
-Leaflet Maps with Google Sheets - polygons-version for teaching purposes
+Leaflet Maps with Google Sheets to demonstrate polygons only DataVizForAll edX course
 
 ## Live links (replace with your own)
 - Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets-polygons/index.html
@@ -12,4 +12,4 @@ Leaflet Maps with Google Sheets - polygons-version for teaching purposes
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT.
 
 ## Learn more in the main repository
-https://github.com/datavizforall/leaflet-maps-with-google-sheets/
+https://github.com/handsondataviz/leaflet-maps-with-google-sheets/
